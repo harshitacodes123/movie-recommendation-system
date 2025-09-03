@@ -10,4 +10,4 @@ This is a **Streamlit-based Movie Recommendation App** built using Python.
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <your-repo-link>
+   git clone < https://github.com/harshitacodes123/movie-recommendation-system.git>
